@@ -3,6 +3,7 @@
   color: white;
   font-family: "Avenir Next", Helvetica, sans-serif;
   text-align: center;
+<<<<<<< HEAD
   padding: 75px 0;
   margin-bottom: 2vw;
   max-width: 100%; }
@@ -71,6 +72,8 @@ footer {
   color: white;
   font-family: "Avenir Next", Helvetica, sans-serif;
   text-align: center;
+=======
+>>>>>>> b72786714b90037a62b7d4b71e3c0d58c3757c8a
   padding: 33vh;
   margin-bottom: 2vw;
   max-width: 95%; }
@@ -97,7 +100,10 @@ footer {
         text-decoration: underline; }
 
 footer {
+<<<<<<< HEAD
   position: inherit;
+=======
+>>>>>>> b72786714b90037a62b7d4b71e3c0d58c3757c8a
   text-align: center;
   padding: 1vh 3vh 7vh 2vh; }
   footer .social a {
@@ -122,4 +128,7 @@ footer {
   footer .copyright {
     margin: 8vh 2vh 0.2vh 2vh;
     font-family: "Avenir Next", Helvetica, sans-serif; }
+<<<<<<< HEAD
   }
+=======
+>>>>>>> b72786714b90037a62b7d4b71e3c0d58c3757c8a
